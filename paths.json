@@ -1,5 +1,7 @@
 {
   "mappings": [
     "/content/ariana-ue/:/" 
+    "/content/wknd-xwalk/metadata.json:/metadata.json",
+    "/content/wknd-xwalk/redirects.json:/redirects.json"
   ]
 }
